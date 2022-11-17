@@ -1,4 +1,4 @@
-##Steps to Install:
+Steps to Install:
 
 1. Create/Activate Python Environment:
     virtualenv --python python3.7 dlc-live
